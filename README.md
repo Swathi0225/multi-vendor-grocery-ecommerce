@@ -213,6 +213,3 @@ The system includes authentication, product management, cart functionality, orde
 ---
 
 
-## 📄 License
-
-This project is for educational purposes.
