@@ -2,7 +2,7 @@
 
 A web-based grocery shopping application where multiple sellers can sell products and customers can purchase them online.
 
-**Developed by:** Sajin C L
+**Developed by:** Swathi M
 
 ---
 
@@ -91,11 +91,6 @@ The system includes authentication, product management, cart functionality, orde
 ### Pagination Support
 <p align="center">
   <img src="screenshots/pagination_support.webp" width="600"/>
-</p>
-
-### User Profile
-<p align="center">
-  <img src="screenshots/user_profile.webp" width="600"/>
 </p>
 
 ### Product Details
